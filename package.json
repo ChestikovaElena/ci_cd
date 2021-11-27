@@ -1,8 +1,8 @@
 {
-  "name": "project_name",
+  "name": "ci_cd",
   "version": "1.0.0",
   "description": "Test GitHub Actions Deploy",
-  "homepage": "https://{login}.github.io/{project_name}",
+  "homepage": "https://chestikovaelena.github.io/ci_cd",
   "main": "index.js",
   "scripts": {
     "serve": "browser-sync start --server src --no-notify --no-ui --cwd src --files index.html,styles/**/*",
